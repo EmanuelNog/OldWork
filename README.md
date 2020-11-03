@@ -14,4 +14,4 @@ Descrição dos requisitos
 
 •	Matricula 
 	A aplicação deverá permitir a matrícula de um aluno em um ou vários cursos, bem como possibilitar a visualização das mesmas contendo as informações do aluno, nome do curso e nome do professor, numero de turmas, quantidade de vagas, dias e Horários de Aula.
-	<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/0852b84e-1752-4195-9106-766ae2561adb" id="jmWKC1vbGkRJ"></iframe></div>
+	 'img' => 'https://lucid.app/documents/embeddedchart/0852b84e-1752-4195-9106-766ae2561adb'

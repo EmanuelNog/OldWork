@@ -1,4 +1,4 @@
-# EscOOla
+# POO OldWork
 ## Objetivos:
 Desenvolver uma aplicação para realizar o cadastro de alunos, professores e cursos de uma escola de música, bem como oferecer o controle das matrículas dos alunos. Não faz parte do escopo da aplicação gerenciar pagamentos de mensalidades, atendo-se à descrição dos requisitos listados neste documento.
 
